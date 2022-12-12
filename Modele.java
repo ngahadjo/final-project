@@ -1,5 +1,10 @@
 package calculus;
-
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/
 
 public class Modele  {
 	private static final long serialVersionUID = 1L;
