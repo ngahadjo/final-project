@@ -1,4 +1,7 @@
 package calculus;
+/* Authors 
+ * Fabrice, Kaleo, and Eloy
+ */
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
