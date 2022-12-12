@@ -1,7 +1,11 @@
 package calculus;
-/* Authors 
- * Fabrice, Kaleo, and Eloy
- */
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/ 
+
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
