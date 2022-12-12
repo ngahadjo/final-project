@@ -1,7 +1,17 @@
 package calculus;
+<<<<<<< HEAD
 /* Authors 
  * Fabrice, Kaleo, and Eloy
  */
+=======
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/
+
+>>>>>>> b663b221dd9d065cb815f9b4df4c1073a304d573
 import java.awt.Component;
 
 public class Controleur {
