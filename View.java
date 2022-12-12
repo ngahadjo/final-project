@@ -1,4 +1,10 @@
 package calculus;
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -8,7 +14,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-
+//creates the view window for the calculator
 public class View extends JPanel {
 	private static final long serialVersionUID = 1L;
 	private JLabel value;
