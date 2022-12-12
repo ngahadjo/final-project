@@ -1,5 +1,10 @@
 package calculus;
-
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
@@ -8,7 +13,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-
+// Math operation symbol buttons and clear button
 public class ControleurOperator extends JPanel implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	String[] tab_string = {"=", "C", "+", "-", "*", "/"};

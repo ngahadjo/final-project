@@ -1,4 +1,10 @@
 package calculus;
+/**
+* Author
+* Fabrice Ngahadjo
+* Kaleo Chase
+* Eloy 	Alvear
+*/
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -6,7 +12,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-
+// Buttons for calculator
 public class ControleurChiffre extends JPanel implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	String[] tab_string = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "." };
